@@ -1,2 +1,2 @@
 # bonacrypto
-e-commerce store that sells cryptocurrency apparel. 
+E-commerce store that sells cryptocurrency apparel. 
