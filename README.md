@@ -8,9 +8,10 @@ Shopify's integration with Coinbase Commerce gives BonaCrypto the capacity to ea
 
 The donation process will be faciliated by the BonaCrypto smart contract. The code for the contract is published into this repository. The following is the list of functionalities that the contract supports : 
 
-(1) Registration of charities subject to BonaCrypto donations  
-(2) Removal of registered charities  
-(3) Viewing of the total list of charities registered  
-(4) Summarization of charities displaying wallet address and accumulated donation amount information  
+(1) Donating ether to a charity
+(2) Registering a charity subject to BonaCrypto donations  
+(2) Removing a registered charity  
+(3) Viewing the total list of charities registered  
+(4) Viewing a summary of a charity including wallet address and accumulated donation amount information  
   
 * It is important to note that the contract only supports Ether-based donations at the current stage. An improved iteration of the concept will need to generalize for a wider range of coins. 
